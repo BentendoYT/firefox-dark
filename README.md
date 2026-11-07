@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/firefox-dark/"><img src="https://img.shields.io/badge/Firefox-2b2a33.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox Add-ons" border="0"></a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/firefox-dark/"><img src="https://img.shields.io/badge/Firefox%20Add--ons-2b2a33.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox Add-ons" border="0"></a>
   <a href="https://github.com/BentendoYT/firefox-dark/releases"><img src="https://img.shields.io/badge/Releases-2b2a33.svg?style=for-the-badge&logo=github&logoColor=white" alt="Releases" border="0"></a>
-  <a href="https://bentendo.dev"><img src="https://img.shields.io/badge/Website-2b2a33.svg?style=for-the-badge&logo=htmx&logoColor=white" alt="Website" border="0"></a>
 </p>
 
 <p align="center">
