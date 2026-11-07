@@ -1,0 +1,14 @@
+# Firefox packages
+*.xpi
+
+# Mozilla signing metadata
+META-INF/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
