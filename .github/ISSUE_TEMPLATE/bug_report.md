@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Report a bug to help improve Dark by Bentendo
+title: "[Bug]:"
+labels: bug
+assignees: ''
+
+---
+
 ## Bug description
 
 What happened?
