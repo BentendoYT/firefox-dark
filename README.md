@@ -45,5 +45,5 @@ To package it, place `manifest.json` in a ZIP archive and rename the `.zip` file
 ---
 
 <p align="center">
-  Copyright © 2026 Bentendo · <a href="LICENSE">All Rights Reserved</a>
+  Copyright © 2026 Bentendo · Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 </p>
