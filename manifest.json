@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Dark",
+  "homepage_url": "https://bentendo.dev",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(43, 42, 51)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(28, 27, 34)",
+      "tab_background_text": "rgb(157, 156, 160)",
+      "toolbar_field": "rgb(28, 27, 34)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(255, 255, 255)",
+      "popup": "rgb(38, 35, 40)",
+      "popup_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(255, 255, 255)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{f48a10e0-1d9f-4c76-a79b-b2d7bfbe919e}"
+    }
+  }
+}
